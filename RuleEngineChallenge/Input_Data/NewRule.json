@@ -1,0 +1,15 @@
+//Operator Need to be Used 
+/*
+  1. Not Equal To
+  2. 
+*/
+
+[
+
+  {
+    "Operator": "Not Equal To",
+    "signal": "ATL2",
+    "value": "LOW",
+    "value_type": "string"
+  }
+]

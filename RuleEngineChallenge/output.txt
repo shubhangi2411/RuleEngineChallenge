@@ -1,0 +1,1 @@
+[{"signal":"ATL1","value":"249.00","value_type":0},{"signal":"ATL3","value":"2019-12-30 22:40:10","value_type":2},{"signal":"ATL2","value":"LOW","value_type":1}]
